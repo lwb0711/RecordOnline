@@ -6,10 +6,6 @@
 
 ```
 npm i
-npm install jquery
-npm install recordrtc
-npm install node-sass --save-dev
-npm install sass-loader --save-dev
 ```
 
 
